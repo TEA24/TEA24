@@ -9,7 +9,7 @@
 -------------------------------------------------------------- 
 - 💬 and i am here to improve my skills  
 -------------------------------------------------------------- 
-- 📫 How to reach me you can just go into my discord server : https://discord.gg/xGNZR2s5gU
+- 👾 my discord server : https://discord.gg/xGNZR2s5gU
 -->
 
 
