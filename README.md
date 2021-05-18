@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello my name is Taim But my friends call me Tea 👋
 
-<!--
-**TEA24/TEA24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m programmer and desginer, musician and more  
+
+
+- 💬 my hobbies is playing guitar, drawing and basketball  
+- 
+- 💬 and i am here to improve my skills  
+
+- 📫 How to reach me you can just go into my discord server : https://discord.gg/xGNZR2s5gU
+
 -->
