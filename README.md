@@ -12,7 +12,7 @@
 - 👾 my discord server : https://discord.gg/xGNZR2s5gU
 
 
-
+<image src="https://github-readme-stats.vercel.app/api?username=TEA24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <image src="https://cdn.discordapp.com/emojis/774362666725670942.png?v=1">
 <image src="https://cdn.discordapp.com/emojis/772896008190951484.png?v=1">
  
@@ -29,5 +29,5 @@
 <image src="https://cdn.discordapp.com/avatars/797528786668617748/a_bd168c1dd6312a0f6ce7243bf8afe277.gif?size=2048">
 
   
-<image src="https://github-readme-stats.vercel.app/api?username=TEA24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
