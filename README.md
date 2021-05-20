@@ -13,6 +13,7 @@
 
 
 <image src="https://github-readme-stats.vercel.app/api?username=TEA24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<image src="https://cdn.discordapp.com/avatars/797528786668617748/a_bd168c1dd6312a0f6ce7243bf8afe277.gif?size=2048">
 <image src="https://cdn.discordapp.com/emojis/774362666725670942.png?v=1">
 <image src="https://cdn.discordapp.com/emojis/772896008190951484.png?v=1">
  
@@ -26,7 +27,7 @@
 
 <image src="https://camo.githubusercontent.com/ce79110d292757e9b3a2c4f8cbf0132d6b2fd51c035f5a9d08c0754d6ae4c9c1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d41646f6265253230496c6c7573747261746f7226636f6c6f723d464639413030266c6f676f3d61646f62652d696c6c7573747261746f72266c6f676f436f6c6f723d7768697465">
  
-<image src="https://cdn.discordapp.com/avatars/797528786668617748/a_bd168c1dd6312a0f6ce7243bf8afe277.gif?size=2048">
+
 
   
 
