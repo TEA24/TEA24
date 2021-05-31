@@ -1,16 +1,5 @@
-### Hello my name is Taim But my friends call me Tea 👋
 
-
-
--->
-- 🔭 I’m programmer and desginer, musician and more  
--------------------------------------------------------------- 
-- 💬 my hobbies is playing guitar, drawing and basketball  
--------------------------------------------------------------- 
-- 💬 and i am here to improve my skills  
--------------------------------------------------------------- 
-- 👾 my discord server : https://discord.gg/xGNZR2s5gU
-
+<h2 align="center">Polar</h2>
 <p align="center">
 <image src="https://github-readme-stats.vercel.app/api?username=TEA24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
@@ -45,3 +34,16 @@
   <img alt="Discord" src="https://brandslogos.com/wp-content/uploads/thumbs/discord-logo-vector.svg" width="200" height="200">
   <p align="center">!Tea TimeDev.lua#0023</p>
 </p>
+
+### Hello my name is Taim But my friends call me Tea 👋
+
+
+
+-->
+- 🔭 I’m programmer and desginer, musician and more  
+-------------------------------------------------------------- 
+- 💬 my hobbies is playing guitar, drawing and basketball  
+-------------------------------------------------------------- 
+
+
+- 👾 my discord server : https://discord.gg/xGNZR2s5gU
