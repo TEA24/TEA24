@@ -32,6 +32,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL">
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift">
+   <img alt="illustrator " src="https://cdn.discordapp.com/emojis/815628012543672340.png?v=1">
 </p>
 
 
