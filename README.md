@@ -34,7 +34,7 @@
 </p>
 
 
- <image src="https://cdn.discordapp.com/emojis/815855504354050049.gif?v=1">
+
 
 <h2 align="center">Discord</h2>
 
