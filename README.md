@@ -11,9 +11,10 @@
 -------------------------------------------------------------- 
 - 👾 my discord server : https://discord.gg/xGNZR2s5gU
 
-
+<p align="center">
 <image src="https://github-readme-stats.vercel.app/api?username=TEA24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+</p>
+  
 <h2 align="center">Tea TimeDev.lua</h2>
 
 <p align="center">
