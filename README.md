@@ -36,7 +36,7 @@
 
 <p align="center">
   <img alt="Discord" src="https://brandslogos.com/wp-content/uploads/thumbs/discord-logo-vector.svg" width="200" height="200">
-  <p align="center">!Tea TimeDev.lua#0023</p>
+  <p align="center">!Tea TimeDev.lua#7810</p>
 </p>
 
 ### Hello my name is Taim But my friends call me Tea 👋
