@@ -8,7 +8,7 @@
 <image src="https://github-readme-stats.vercel.app/api?username=TEA24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
   
-<h2 align="center">Tea TimeDev.lua</h2>
+<h2 align="center">Tea Time</h2>
 
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=TEA24">
@@ -36,7 +36,7 @@
 
 <p align="center">
   <img alt="Discord" src="https://brandslogos.com/wp-content/uploads/thumbs/discord-logo-vector.svg" width="200" height="200">
-  <p align="center">!Tea TimeDev.lua#7810</p>
+  <p align="center">!Tea Time#0024</p>
 </p>
 
 
