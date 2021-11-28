@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<image src="https://github-readme-stats.vercel.app/api?username=TEA24&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<image src="https://github-readme-stats.vercel.app/api?username=TEA24&&show_icons=true&title_color=ABC1D3&icon_color=ABC1D3&text_color=0D75C7&bg_color=05080A">
 </p>
   
 <h2 align="center">Tea Time</h2>
