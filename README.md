@@ -8,7 +8,7 @@
 <image src="https://github-readme-stats.vercel.app/api?username=TEA24&&show_icons=true&title_color=ABC1D3&icon_color=ABC1D3&text_color=0D75C7&bg_color=05080A">
 </p>
   
-<h2 align="center">Tea Time</h2>
+<h2 align="center">Visitors Count</h2>
 
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=TEA24">
@@ -18,7 +18,6 @@
 <h2 align="center">Languages</h2>
 
 <p align="center">
-  <img alt="emojis" src="https://cdn.discordapp.com/emojis/736610993173692426.gif?v=1">
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5">
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -26,7 +25,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL">
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift">
-   <img alt="illustrator " src="https://cdn.discordapp.com/emojis/815628012543672340.png?v=1">
 </p>
 
 
