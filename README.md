@@ -6,15 +6,10 @@
 
 <h1 align="center">Hi 👋, I'm Taim but u can call me Tea</h1>
 
-<p align="center">
+
 [![Discord](https://cdn.discordapp.com/attachments/873899906287431700/921420470702731314/unknown.png)](https://discord.gg/gsK6s9hXJR)
-</p>
-<p align="center">
-[![Discord](https://cdn.discordapp.com/attachments/873899906287431700/921420298736246844/unknown.png)](https://discord.gg/WNYN8d8RhA)
-</p>
-<p align="center">
-[![Discord](https://cdn.discordapp.com/attachments/873899906287431700/921421135084666910/unknown.png)](https://discord.gg/XMVzHpFfcw)
-</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tea24&label=Profile%20views&color=0e75b6&style=flat" alt="tea24" /> </p>
 
