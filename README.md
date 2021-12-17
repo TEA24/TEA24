@@ -12,6 +12,10 @@
 
 [![Discord](https://cdn.discordapp.com/attachments/873899906287431700/921420298736246844/unknown.png)](https://discord.gg/WNYN8d8RhA)
 
+[![Discord](https://cdn.discordapp.com/attachments/873899906287431700/921420298736246844/unknown.png)](https://discord.gg/WNYN8d8RhA)
+
+
+[![Discord](https://cdn.discordapp.com/attachments/873899906287431700/921421135084666910/unknown.png)](https://discord.gg/XMVzHpFfcw)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tea24&label=Profile%20views&color=0e75b6&style=flat" alt="tea24" /> </p>
