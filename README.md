@@ -12,7 +12,7 @@
 
 [![Discord](https://cdn.discordapp.com/attachments/873899906287431700/921420298736246844/unknown.png)](https://discord.gg/WNYN8d8RhA)
 
-[![Discord](https://cdn.discordapp.com/attachments/873899906287431700/921420298736246844/unknown.png)](https://discord.gg/WNYN8d8RhA)
+
 
 
 [![Discord](https://cdn.discordapp.com/attachments/873899906287431700/921421135084666910/unknown.png)](https://discord.gg/XMVzHpFfcw)
